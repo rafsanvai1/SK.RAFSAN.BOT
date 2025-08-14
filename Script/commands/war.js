@@ -6,7 +6,7 @@ module.exports.config = {
     description: "War in group boxchat",
     commandCategory: "group",
     usages: "warzisan",
-    cooldowns: 10,
+    cooldowns: 5,
     dependencies: {
         "fs-extra": "",
         "axios": ""
