@@ -79,7 +79,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
    };
 
   
-   if ((event.body.toLowerCase() == "FORK") || (event.body.toLowerCase() == "Github") || (event.body.toLowerCase() == "github") || (event.body.toLowerCase() == "fork")) {
+   if ((event.body.toLowerCase() == "Fork1") || (event.body.toLowerCase() == "Github") || (event.body.toLowerCase() == "github") || (event.body.toLowerCase() == "fork1")) {
      return api.sendMessage("https://github.com/Zisan1-moni/CYBER-ZISAN", threadID);
    };
 
