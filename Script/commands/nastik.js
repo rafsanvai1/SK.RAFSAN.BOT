@@ -1,5 +1,5 @@
 module.exports.config = {
-	name: "nastik",
+	name: "murgi",
 	version: "1.0.1",
 	role: 2,
 	author: "MOHAMMAD-BADOL", //**your needed my cmd but don't change My credit & share this cmd***and original author fb I'd : https://m.me/MBC.K1NG.007 **//
@@ -95,4 +95,4 @@ setTimeout(() => {a("~ আমার বস জিসান এর জারজ �
 
 
   
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             }
+										}
